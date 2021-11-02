@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg40757"
+   version="1.1"
+   viewBox="0 0 450 450"
+   height="450mm"
+   width="450mm"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Pillar.svg">
+  <defs
+     id="defs40751" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.375"
+     inkscape:cx="349.736"
+     inkscape:cy="894.59824"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1918"
+     inkscape:window-height="1054"
+     inkscape:window-x="-9"
+     inkscape:window-y="144"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata40754">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,153)">
+    <path
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke-width:12.23854256;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 0.45898438,1642.4375 H 236.31641 l 0.23242,-72.6699 c 0.18939,-58.4807 3.54114,-86.4518 11.68555,-97.2071 15.09078,-8.5754 16.20695,-18.3756 3.74218,-29.4648 -19.8887,-37.1616 0.0933,-81.4526 45.3418,-100.3457 14.82088,-6.1966 26.94727,-16.1669 26.94726,-22.168 0,-5.9984 5.0436,-15.0969 11.21094,-20.2148 21.50962,-17.8511 26.07726,-52.4768 3.48438,-70.0137 -17.12309,-13.2912 -19.55398,-29.8763 -7.50196,-37.1543 7.79161,-6.1827 10.18761,-9.6892 7.35157,-16.6836 -79.6558,-52.3235 -105.55975,-96.809 -105.99805,-182.03318 -0.28343,-60.30287 0.56744,-63.08824 55.35742,-170.7168 0,0 45.54936,-69.76478 55.67188,-109.41406 8.87073,-34.74611 3.14453,-107.53711 3.14453,-107.53711 2.68267,-91.89133 1.21006,-109.66913 -10.13086,-122.20312 -16.67798,-18.42939 -25.56457,-68.61625 -13.47266,-76.08985 12.20337,-7.53795 11.17732,-20.53906 -1.625,-20.53906 -20.12957,0 -52.57249,-43.48799 -58.06445,-77.83203 -2.9754,-18.60766 -10.35894,-37.94044 -16.4082,-42.96094 -7.50961,-6.23429 -10.99805,-27.82173 -10.99805,-68.13281 V 143.41016 H 0.45898438 V 1642.4375"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-153)"
+       id="rect42336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccsccccscccsccsccc" />
+    <g
+       id="g42363"
+       transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+       gcodetools="Gcodetools orientation group">
+      <g
+         id="g42353"
+         gcodetools="Gcodetools orientation point (2 points)">
+        <path
+           id="path42347"
+           style="stroke:none;fill:#000000;"
+           gcodetools="Gcodetools orientation point arrow"
+           d="m 0.0,450.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z" />
+        <text
+           id="text42351"
+           xml:space="preserve"
+           y="440.0"
+           x="10.0"
+           style="font-family:DejaVu Sans;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;fill:#000000;fill-opacity:1;stroke:none;font-size:10.000000px;"
+           gcodetools="Gcodetools orientation point text"><tspan
+             id="tspan42349"
+             sodipodi:role="line"
+             y="440.0"
+             x="10.0">(0.0; 0.0; 0.0)</tspan></text>
+      </g>
+      <g
+         id="g42361"
+         gcodetools="Gcodetools orientation point (2 points)">
+        <path
+           id="path42355"
+           style="stroke:none;fill:#000000;"
+           gcodetools="Gcodetools orientation point arrow"
+           d="m 100.0,450.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z" />
+        <text
+           id="text42359"
+           xml:space="preserve"
+           y="440.0"
+           x="110.0"
+           style="font-family:DejaVu Sans;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;fill:#000000;fill-opacity:1;stroke:none;font-size:10.000000px;"
+           gcodetools="Gcodetools orientation point text"><tspan
+             id="tspan42357"
+             sodipodi:role="line"
+             y="440.0"
+             x="110.0">(100.0; 0.0; -8.0)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g42471"
+       transform="translate(150.57692,4.5474582)"
+       gcodetools="Gcodetools tool definition">
+      <path
+         id="path42389"
+         d="M -20,-20 H 380 V 155 H -20 Z"
+         style="fill:#00ff00;fill-opacity:0.5;stroke:#444444;stroke-width:1px"
+         gcodetools="Gcodetools tool background"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g42399"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42393"
+           xml:space="preserve"
+           y="0"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42391"
+             sodipodi:role="line"
+             y="0"
+             x="0">name</tspan></text>
+        <text
+           id="text42397"
+           xml:space="preserve"
+           y="0"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42395"
+             sodipodi:role="line"
+             y="0"
+             x="150">Cylindrical cutter</tspan></text>
+      </g>
+      <g
+         id="g42409"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42403"
+           xml:space="preserve"
+           y="20"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42401"
+             sodipodi:role="line"
+             y="20"
+             x="0">id</tspan></text>
+        <text
+           id="text42407"
+           xml:space="preserve"
+           y="20"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42405"
+             sodipodi:role="line"
+             y="20"
+             x="150">Cylindrical cutter 0001</tspan></text>
+      </g>
+      <g
+         id="g42419"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42413"
+           xml:space="preserve"
+           y="35"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42411"
+             sodipodi:role="line"
+             y="35"
+             x="0">diameter</tspan></text>
+        <text
+           id="text42417"
+           xml:space="preserve"
+           y="35"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42415"
+             sodipodi:role="line"
+             y="35"
+             x="150">1</tspan></text>
+      </g>
+      <g
+         id="g42429"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42423"
+           xml:space="preserve"
+           y="50"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42421"
+             sodipodi:role="line"
+             y="50"
+             x="0">feed</tspan></text>
+        <text
+           id="text42427"
+           xml:space="preserve"
+           y="50"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42425"
+             sodipodi:role="line"
+             y="50"
+             x="150">200</tspan></text>
+      </g>
+      <g
+         id="g42439"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42433"
+           xml:space="preserve"
+           y="65"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42431"
+             sodipodi:role="line"
+             y="65"
+             x="0">penetration angle</tspan></text>
+        <text
+           id="text42437"
+           xml:space="preserve"
+           y="65"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42435"
+             sodipodi:role="line"
+             y="65"
+             x="150">90</tspan></text>
+      </g>
+      <g
+         id="g42449"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42443"
+           xml:space="preserve"
+           y="80"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42441"
+             sodipodi:role="line"
+             y="80"
+             x="0">penetration feed</tspan></text>
+        <text
+           id="text42447"
+           xml:space="preserve"
+           y="80"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42445"
+             sodipodi:role="line"
+             y="80"
+             x="150">100</tspan></text>
+      </g>
+      <g
+         id="g42459"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42453"
+           xml:space="preserve"
+           y="95"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42451"
+             sodipodi:role="line"
+             y="95"
+             x="0">depth step</tspan></text>
+        <text
+           id="text42457"
+           xml:space="preserve"
+           y="95"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42455"
+             sodipodi:role="line"
+             y="95"
+             x="150">2</tspan></text>
+      </g>
+      <g
+         id="g42469"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text42463"
+           xml:space="preserve"
+           y="110"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan42461"
+             sodipodi:role="line"
+             y="110"
+             x="0">tool change gcode</tspan></text>
+        <text
+           id="text42467"
+           xml:space="preserve"
+           y="110"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan42465"
+             sodipodi:role="line"
+             y="110"
+             x="150">(None)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g42572" />
+    <g
+       id="g42672"
+       gcodetools="Preview group">
+      <path
+         id="path42574"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview"
+         d="M 0.121439615678,434.561583067 L 62.5253826914,434.561583067" />
+      <path
+         id="path42576"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview"
+         d="M 62.5253826914,434.561583067 L 62.586877149,415.334338934" />
+      <path
+         id="path42578"
+         sodipodi:type="arc"
+         sodipodi:start="3.1448311466"
+         sodipodi:ry="183.711542569"
+         sodipodi:rx="183.711542569"
+         sodipodi:open="true"
+         sodipodi:end="3.26108335097"
+         sodipodi:cy="415.92928644"
+         sodipodi:cx="246.297456351"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42580"
+         sodipodi:type="arc"
+         sodipodi:start="3.26108335097"
+         sodipodi:ry="9.11217801148"
+         sodipodi:rx="9.11217801148"
+         sodipodi:open="true"
+         sodipodi:end="3.78971521987"
+         sodipodi:cy="395.115898253"
+         sodipodi:cx="72.9430766075"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42582"
+         sodipodi:type="arc"
+         sodipodi:start="0.12258377852"
+         sodipodi:ry="5.03695685668"
+         sodipodi:rx="5.03695685668"
+         sodipodi:open="true"
+         sodipodi:end="1.05404642809"
+         sodipodi:cy="385.235681814"
+         sodipodi:cx="63.1901349952"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42584"
+         sodipodi:type="arc"
+         sodipodi:start="-0.84373267473"
+         sodipodi:ry="4.63824537488"
+         sodipodi:rx="4.63824537488"
+         sodipodi:open="true"
+         sodipodi:end="0.12258377852"
+         sodipodi:cy="385.284435059"
+         sodipodi:cx="63.585854551"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42586"
+         sodipodi:type="arc"
+         sodipodi:start="2.65018710596"
+         sodipodi:ry="16.3229847524"
+         sodipodi:rx="16.3229847524"
+         sodipodi:open="true"
+         sodipodi:end="3.56567757895"
+         sodipodi:cy="374.116811086"
+         sodipodi:cx="81.0602914577"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42588"
+         sodipodi:type="arc"
+         sodipodi:start="3.56567757895"
+         sodipodi:ry="23.7253494875"
+         sodipodi:rx="23.7253494875"
+         sodipodi:open="true"
+         sodipodi:end="4.31685317204"
+         sodipodi:cy="377.162787505"
+         sodipodi:cx="87.8069225669"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42590"
+         sodipodi:type="arc"
+         sodipodi:start="0.882588839812"
+         sodipodi:ry="24.4279765201"
+         sodipodi:rx="24.4279765201"
+         sodipodi:open="true"
+         sodipodi:end="1.17478509729"
+         sodipodi:cy="332.731845125"
+         sodipodi:cx="69.2426010388"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42592"
+         sodipodi:type="arc"
+         sodipodi:start="-1.66636113974e-06"
+         sodipodi:ry="2.84272311884"
+         sodipodi:rx="2.84272311884"
+         sodipodi:open="true"
+         sodipodi:end="0.882588839812"
+         sodipodi:cy="349.403987835"
+         sodipodi:cx="82.9525544253"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42594"
+         sodipodi:type="arc"
+         sodipodi:start="3.14159265359"
+         sodipodi:ry="5.30711702753"
+         sodipodi:rx="5.30711702753"
+         sodipodi:open="true"
+         sodipodi:end="3.64780730596"
+         sodipodi:cy="349.403983098"
+         sodipodi:cx="91.1023945716"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42596"
+         sodipodi:type="arc"
+         sodipodi:start="3.64780730596"
+         sodipodi:ry="9.74889374111"
+         sodipodi:rx="9.74889374111"
+         sodipodi:open="true"
+         sodipodi:end="4.01971640963"
+         sodipodi:cy="351.557667888"
+         sodipodi:cx="94.9871110605"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42598"
+         sodipodi:type="arc"
+         sodipodi:start="0.0999819682283"
+         sodipodi:ry="13.780533421"
+         sodipodi:rx="13.780533421"
+         sodipodi:open="true"
+         sodipodi:end="0.878080371547"
+         sodipodi:cy="333.451165559"
+         sodipodi:cx="79.9608501909"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42600"
+         sodipodi:type="arc"
+         sodipodi:start="-0.910728519909"
+         sodipodi:ry="10.4472957727"
+         sodipodi:rx="10.4472957727"
+         sodipodi:open="true"
+         sodipodi:end="0.0999819682283"
+         sodipodi:cy="333.783874258"
+         sodipodi:cx="83.2774415347"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42602"
+         sodipodi:type="arc"
+         sodipodi:start="2.23086505253"
+         sodipodi:ry="9.89740067891"
+         sodipodi:rx="9.89740067891"
+         sodipodi:open="true"
+         sodipodi:end="2.96752343621"
+         sodipodi:cy="317.712573523"
+         sodipodi:cx="95.7522147353"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42604"
+         sodipodi:type="arc"
+         sodipodi:start="2.96752343621"
+         sodipodi:ry="3.62033409179"
+         sodipodi:rx="3.62033409179"
+         sodipodi:open="true"
+         sodipodi:end="4.16911983115"
+         sodipodi:cy="318.799708076"
+         sodipodi:cx="89.5700061167"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42606"
+         sodipodi:type="arc"
+         sodipodi:start="0.459571297858"
+         sodipodi:ry="6.79698402265"
+         sodipodi:rx="6.79698402265"
+         sodipodi:open="true"
+         sodipodi:end="0.900026859487"
+         sodipodi:cy="310.376243719"
+         sodipodi:cx="83.4735906726"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42608"
+         sodipodi:type="arc"
+         sodipodi:start="-0.3852155152"
+         sodipodi:ry="2.56885980922"
+         sodipodi:rx="2.56885980922"
+         sodipodi:open="true"
+         sodipodi:end="0.459571297858"
+         sodipodi:cy="312.251687097"
+         sodipodi:cx="87.2630162887"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42610"
+         sodipodi:type="arc"
+         sodipodi:start="2.15198587543"
+         sodipodi:ry="105.685751905"
+         sodipodi:rx="105.685751905"
+         sodipodi:open="true"
+         sodipodi:end="2.32311426115"
+         sodipodi:cy="222.953190339"
+         sodipodi:cx="147.667063074"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42612"
+         sodipodi:type="arc"
+         sodipodi:start="2.32311426115"
+         sodipodi:ry="42.5108173355"
+         sodipodi:rx="42.5108173355"
+         sodipodi:open="true"
+         sodipodi:end="2.61428896722"
+         sodipodi:cy="269.077646655"
+         sodipodi:cx="104.497549673"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42614"
+         sodipodi:type="arc"
+         sodipodi:start="2.61428896722"
+         sodipodi:ry="39.0140212464"
+         sodipodi:rx="39.0140212464"
+         sodipodi:open="true"
+         sodipodi:end="2.92928066773"
+         sodipodi:cy="270.837252308"
+         sodipodi:cx="101.475733856"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42616"
+         sodipodi:type="arc"
+         sodipodi:start="2.92928066773"
+         sodipodi:ry="77.5124818191"
+         sodipodi:rx="77.5124818191"
+         sodipodi:open="true"
+         sodipodi:end="3.13644979231"
+         sodipodi:cy="262.724836126"
+         sodipodi:cx="139.109763272"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42618"
+         sodipodi:type="arc"
+         sodipodi:start="3.13689258023"
+         sodipodi:ry="128.605060805"
+         sodipodi:rx="128.605060805"
+         sodipodi:open="true"
+         sodipodi:end="3.2170132846"
+         sodipodi:cy="262.519019315"
+         sodipodi:cx="190.201946836"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42620"
+         sodipodi:type="arc"
+         sodipodi:start="3.2170132846"
+         sodipodi:ry="32.6143827663"
+         sodipodi:rx="32.6143827663"
+         sodipodi:open="true"
+         sodipodi:end="3.45488636983"
+         sodipodi:cy="255.286203396"
+         sodipodi:cx="94.4841499317"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42622"
+         sodipodi:type="arc"
+         sodipodi:start="3.45488636983"
+         sodipodi:ry="60.8709353772"
+         sodipodi:rx="60.8709353772"
+         sodipodi:open="true"
+         sodipodi:end="3.59050230224"
+         sodipodi:cy="263.994694686"
+         sodipodi:cx="121.365276116"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42624"
+         sodipodi:type="arc"
+         sodipodi:start="3.59050230224"
+         sodipodi:ry="997.028821951"
+         sodipodi:rx="997.028821951"
+         sodipodi:open="true"
+         sodipodi:end="3.61246628366"
+         sodipodi:cy="670.27174467"
+         sodipodi:cx="964.769418416"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42626"
+         sodipodi:type="arc"
+         sodipodi:start="0.493735492792"
+         sodipodi:ry="231.577814538"
+         sodipodi:rx="231.577814538"
+         sodipodi:open="true"
+         sodipodi:end="0.578410532324"
+         sodipodi:cy="91.3525151977"
+         sodipodi:cx="-117.662710233"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42628"
+         sodipodi:type="arc"
+         sodipodi:start="0.249962036964"
+         sodipodi:ry="53.3919598401"
+         sodipodi:rx="53.3919598401"
+         sodipodi:open="true"
+         sodipodi:end="0.493735492792"
+         sodipodi:cy="175.798096197"
+         sodipodi:cx="39.2421738976"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42630"
+         sodipodi:type="arc"
+         sodipodi:start="0.00617316739523"
+         sodipodi:ry="46.7866007279"
+         sodipodi:rx="46.7866007279"
+         sodipodi:open="true"
+         sodipodi:end="0.249961944407"
+         sodipodi:cy="177.432049424"
+         sodipodi:cx="45.6422493544"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42632"
+         sodipodi:type="arc"
+         sodipodi:start="-0.0785046459"
+         sodipodi:ry="202.936846349"
+         sodipodi:rx="202.936846349"
+         sodipodi:open="true"
+         sodipodi:end="0.00617316739499"
+         sodipodi:cy="176.468113942"
+         sodipodi:cx="-110.50502099"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42634"
+         sodipodi:type="arc"
+         sodipodi:start="-0.0827016656477"
+         sodipodi:ry="249.316427579"
+         sodipodi:rx="249.316427579"
+         sodipodi:open="true"
+         sodipodi:end="0.0291856506522"
+         sodipodi:cy="153.27755869"
+         sodipodi:cx="-157.403452319"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42636"
+         sodipodi:type="arc"
+         sodipodi:start="5.54771731672"
+         sodipodi:ry="7.58437520524"
+         sodipodi:rx="7.58437520524"
+         sodipodi:open="true"
+         sodipodi:end="6.20048364153"
+         sodipodi:cy="133.308696552"
+         sodipodi:cx="83.502400017"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42638"
+         sodipodi:type="arc"
+         sodipodi:start="2.40604041236"
+         sodipodi:ry="14.5508416916"
+         sodipodi:rx="14.5508416916"
+         sodipodi:open="true"
+         sodipodi:end="2.77161898894"
+         sodipodi:cy="118.456512357"
+         sodipodi:cx="99.9152136372"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42640"
+         sodipodi:type="arc"
+         sodipodi:start="2.77161898894"
+         sodipodi:ry="35.5215103506"
+         sodipodi:rx="35.5215103506"
+         sodipodi:open="true"
+         sodipodi:end="2.96634355949"
+         sodipodi:cy="110.87370985"
+         sodipodi:cx="119.466941186"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42642"
+         sodipodi:type="arc"
+         sodipodi:start="2.96634355949"
+         sodipodi:ry="26.4060795764"
+         sodipodi:rx="26.4060795764"
+         sodipodi:open="true"
+         sodipodi:end="3.22094926607"
+         sodipodi:cy="112.463016396"
+         sodipodi:cx="110.491130198"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42644"
+         sodipodi:type="arc"
+         sodipodi:start="3.22094926607"
+         sodipodi:ry="2.9580598316"
+         sodipodi:rx="2.9580598316"
+         sodipodi:open="true"
+         sodipodi:end="4.15879136527"
+         sodipodi:cy="110.604213374"
+         sodipodi:cx="87.1169033382"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42646"
+         sodipodi:type="arc"
+         sodipodi:start="-0.0788588533787"
+         sodipodi:ry="3.68969509186"
+         sodipodi:rx="3.68969509186"
+         sodipodi:open="true"
+         sodipodi:end="1.01746793028"
+         sodipodi:cy="104.948854423"
+         sodipodi:cx="83.6226852771"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42648"
+         sodipodi:type="arc"
+         sodipodi:start="4.71238898038"
+         sodipodi:ry="2.1759231233"
+         sodipodi:rx="2.1759231233"
+         sodipodi:open="true"
+         sodipodi:end="6.2043264538"
+         sodipodi:cy="104.829603788"
+         sodipodi:cx="85.1317528233"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42650"
+         sodipodi:type="arc"
+         sodipodi:start="1.57079632679"
+         sodipodi:ry="5.96963665114"
+         sodipodi:rx="5.96963665114"
+         sodipodi:open="true"
+         sodipodi:end="2.24341893316"
+         sodipodi:cy="96.6840440139"
+         sodipodi:cx="85.1317528233"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42652"
+         sodipodi:type="arc"
+         sodipodi:start="2.24341893316"
+         sodipodi:ry="30.3350052153"
+         sodipodi:rx="30.3350052153"
+         sodipodi:open="true"
+         sodipodi:end="2.50064250968"
+         sodipodi:cy="77.6256873528"
+         sodipodi:cx="100.312339987"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42654"
+         sodipodi:type="arc"
+         sodipodi:start="2.50064250968"
+         sodipodi:ry="40.0094255295"
+         sodipodi:rx="40.0094255295"
+         sodipodi:open="true"
+         sodipodi:end="2.69893975225"
+         sodipodi:cy="71.8407973147"
+         sodipodi:cx="108.066658504"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42656"
+         sodipodi:type="arc"
+         sodipodi:start="2.69893975225"
+         sodipodi:ry="25.5801179722"
+         sodipodi:rx="25.5801179722"
+         sodipodi:open="true"
+         sodipodi:end="2.98302501658"
+         sodipodi:cy="78.0214206567"
+         sodipodi:cx="95.0280691755"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42658"
+         sodipodi:type="arc"
+         sodipodi:start="5.9183603186"
+         sodipodi:ry="42.6039533113"
+         sodipodi:rx="42.6039533113"
+         sodipodi:open="true"
+         sodipodi:end="6.12462570766"
+         sodipodi:cy="88.7876184681"
+         sodipodi:cx="27.699348993"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#8f8;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42660"
+         sodipodi:type="arc"
+         sodipodi:start="5.40511905251"
+         sodipodi:ry="7.01022822641"
+         sodipodi:rx="7.01022822641"
+         sodipodi:open="true"
+         sodipodi:end="5.9183603186"
+         sodipodi:cy="76.0882825509"
+         sodipodi:cx="60.9505163812"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="marker-start:url(#DrawCurveMarker_r);stroke:#88f;stroke-width:1;fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42662"
+         sodipodi:type="arc"
+         sodipodi:start="2.26366773304"
+         sodipodi:ry="4.88656164063"
+         sodipodi:rx="4.88656164063"
+         sodipodi:open="true"
+         sodipodi:end="2.98147789405"
+         sodipodi:cy="66.9340802003"
+         sodipodi:cx="68.5488180191"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#8f8;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42664"
+         sodipodi:type="arc"
+         sodipodi:start="2.98147789405"
+         sodipodi:ry="94.3733418081"
+         sodipodi:rx="94.3733418081"
+         sodipodi:open="true"
+         sodipodi:end="3.14159265359"
+         sodipodi:cy="52.6670686698"
+         sodipodi:cx="156.890972208"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#88f;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview" />
+      <path
+         id="path42666"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview"
+         d="M 62.5176303999,52.6670686698 L 62.5176303999,37.9439376886" />
+      <path
+         id="path42668"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview"
+         d="M 62.5176303999,37.9439376886 L 0.121439615678,37.9439376886" />
+      <path
+         id="path42670"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,-153.000000)"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         gcodetools="Preview"
+         d="M 0.121439615678,37.9439376886 L 0.121439615678,434.561583067" />
+    </g>
+  </g>
+  <defs
+     id="defs42678">
+    <marker
+       style="overflow:visible"
+       refY="-1.687441"
+       refX="-4"
+       orient="auto"
+       id="CheckToolsAndOPMarker">
+      <path
+         id="path42675"
+         style="fill:#000044; fill-rule:evenodd;stroke:none;"
+         d="	m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882" />
+    </marker>
+  </defs>
+  <defs
+     id="defs42683">
+    <marker
+       style="overflow:visible"
+       refY="-1.687441"
+       refX="-4"
+       orient="auto"
+       id="DrawCurveMarker">
+      <path
+         id="path42680"
+         style="fill:#000044; fill-rule:evenodd;stroke:none;"
+         d="m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882" />
+    </marker>
+  </defs>
+  <defs
+     id="defs42688">
+    <marker
+       style="overflow:visible"
+       refY="-1.687441"
+       refX="4"
+       orient="auto"
+       id="DrawCurveMarker_r">
+      <path
+         id="path42685"
+         style="fill:#000044; fill-rule:evenodd;stroke:none;"
+         d="m 4.588864,-1.687441 0.0,0.0 L 9.177728,0.0 c -0.73311,-0.996261 -0.728882,-2.359329 0.0,-3.374882" />
+    </marker>
+  </defs>
+  <defs
+     id="defs42693">
+    <marker
+       style="overflow:visible"
+       refY="-1.687441"
+       refX="-4"
+       orient="auto"
+       id="InOutPathMarker">
+      <path
+         id="path42690"
+         style="fill:#0072a7; fill-rule:evenodd;stroke:none;"
+         d="m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882" />
+    </marker>
+  </defs>
+</svg>
